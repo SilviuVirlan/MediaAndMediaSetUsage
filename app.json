@@ -1,7 +1,7 @@
 {
   "id": "a15564e1-a86c-44d0-b8f2-f0823ef38e8f",
-  "name": "GitPlay",
-  "publisher": "Default publisher",
+  "name": "Media and MediaSet",
+  "publisher": "Silviu V.",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -20,7 +20,7 @@
       "to": 50149
     }
   ],
-  "contextSensitiveHelpUrl": "https://GitPlay.com/help/",
+  "contextSensitiveHelpUrl": "https://svirlan.com",
   "showMyCode": true,
   "runtime": "7.0"
 }
